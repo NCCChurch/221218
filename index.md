@@ -3,7 +3,7 @@
 ## 经文：利未记 23章
 <audio controls src="./221218.mp3"></audio>
 
-妥拉学习网站：https://torah4chinese.org/
+[妥拉学习网站：https://torah4chinese.org/](https://torah4chinese.org/)
 
 ![](1.jpg)
 ![](2.jpg)
