@@ -32,3 +32,5 @@
 ### ———————————————————
 
 ## [主日证道汇总](https://nccchurch.github.io/Sermons/)
+### ———————————————————
+![](https://komarev.com/ghpvc/?username=Nccchurch)
